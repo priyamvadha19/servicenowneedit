@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Import Table" language="en" table="x_1382162_import_a_import_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Import Table</label>
+            <language>en</language>
+            <name>x_1382162_import_a_import_table</name>
+            <plural>Import Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-03 11:20:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Import Table</sys_name>
+            <sys_package display_value="Import App" source="x_1382162_import_a">8fd1173f83b10210ab03f4a6feaad36b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Import App">8fd1173f83b10210ab03f4a6feaad36b</sys_scope>
+            <sys_update_name>sys_documentation_x_1382162_import_a_import_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-03 11:20:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

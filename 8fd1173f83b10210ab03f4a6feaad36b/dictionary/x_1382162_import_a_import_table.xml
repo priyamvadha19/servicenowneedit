@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="01d317ff83b10210ab03f4a6feaad335" label="Import Table" max_length="40" name="x_1382162_import_a_import_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
